@@ -1,0 +1,14 @@
+accelerate==1.2.1
+trl==0.13.0
+wandb==0.18.6
+transformers==4.47.1
+torch
+transformers
+datasets
+wandb
+bitsandbytes
+accelerate
+deepspeed
+trl
+packaging
+ninja
